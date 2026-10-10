@@ -1,6 +1,6 @@
 # RFID Access Control System
 
-A beginner-friendly electronics and programming project built to explore the fundamentals of embedded systems. Build using a Raspberry Pi Pico (RP2040), an MFRC522 RFID reader, LEDs, and a buzzer, this project introduces hardware wiring, MicroPython, and RFID communication through a simple access control system.
+A beginner-friendly electronics and programming project built to explore the fundamentals of embedded systems. Built using a Raspberry Pi Pico (RP2040), an MFRC522 RFID reader, LEDs, and a buzzer, this project introduces hardware wiring, MicroPython, and RFID communication through a simple access control system.
 
 ## Hardware
 
